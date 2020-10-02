@@ -1,2 +1,2 @@
 # datasciencecoursera
-Put Data Science Tools together 
+Put Data Science Tools together for collabrative data science projects.
